@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1eQePiaPDIalIV5xv10hgRgY65b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/static/index/images/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gitProject\tofu_pudding\public\static\index\images\common" />
+      <recent name="F:\gitProject\tofu\public\static\index\images\common" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="" />
+      <created>1594258221295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594258221295</updated>
+      <workItem from="1594258225441" duration="11700000" />
+      <workItem from="1594342631875" duration="4216000" />
+      <workItem from="1594428729014" duration="14935000" />
+      <workItem from="1594601086299" duration="1826000" />
+      <workItem from="1594688337189" duration="3311000" />
+      <workItem from="1594784617480" duration="1787000" />
+      <workItem from="1594793347237" duration="4437000" />
+      <workItem from="1594800196791" duration="1962000" />
+    </task>
+    <task id="LOCAL-00001" summary="隐藏品牌故事">
+      <created>1594261361438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594261361438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="底部logo">
+      <created>1594278226229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594278226229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="底部字体颜色修改">
+      <created>1594281373149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594281373149</updated>
+    </task>
+    <task id="LOCAL-00004" summary="首页样式调整">
+      <created>1594695352581</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594695352581</updated>
+    </task>
+    <task id="LOCAL-00005" summary="成功案例-》实体店">
+      <created>1594714410335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594714410335</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加view">
+      <created>1594785038477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594785038477</updated>
+    </task>
+    <task id="LOCAL-00007" summary="banner修改样式">
+      <created>1594785418813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594785418813</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="隐藏品牌故事" />
+    <MESSAGE value="底部logo" />
+    <MESSAGE value="底部字体颜色修改" />
+    <MESSAGE value="首页样式调整" />
+    <MESSAGE value="成功案例-》实体店" />
+    <MESSAGE value="添加view" />
+    <MESSAGE value="banner修改样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="banner修改样式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594785417094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594785417094" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594281130645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594281130645" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594785422593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594785422593" />
+    <state x="468" y="146" width="600" height="532" key="find.popup" timestamp="1594280796092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="146" width="600" height="532" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1594280796092" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594787848173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594787848173" />
+  </component>
+</project>
