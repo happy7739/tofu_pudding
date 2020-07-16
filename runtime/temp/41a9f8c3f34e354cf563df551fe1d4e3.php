@@ -1,4 +1,4 @@
-<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\profit\equity.html";i:1592967148;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594280765;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\profit\equity.html";i:1594889206;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -290,7 +290,7 @@
 			</span>
 		</h3>
 		<div class="row inner-sec" >
-			<img alt="" width="100%" src="/static/index/images/profit/e1.jpg" />
+			<img alt="" width="100%" src="/static/index/images/profit/e01.jpg" />
 
 			<div class="col-lg-6 banner-btm-left">
 				<div class="banner-btm-top">
@@ -307,7 +307,7 @@
 							行销物料使用权
 						</a>
 						<p class="paragraph">
-							一纸馋统一设计制定的posm辅助销售材料的使用权。
+							自力逗花厂统一设计制定的posm辅助销售材料的使用权。
 						</p>
 					</div>
 				</div>
@@ -345,7 +345,7 @@
 							技术服务培训权
 						</a>
 						<p class="paragraph">
-							一纸馋全套技术工艺、设备器具使用等培训权，接受培训人员须通过考核后方能毕业上岗，确保合作店独立运营。
+							自力逗花厂全套技术工艺、设备器具使用等培训权，接受培训人员须通过考核后方能毕业上岗，确保合作店独立运营。
 						</p>
 					</div>
 				</div>
@@ -471,8 +471,7 @@
     <div class="container">
         <div class="row" style="margin-bottom: 1em;">
             <div class="col-lg-2 footer-grid text-center" data-aos="fade-right" >
-                <img src="<?php echo htmlentities(get_file_path($config['wx_img'])); ?>" width="80%">
-                <h4><b>扫一扫<br/>立即关注<br/>官方微信</b></h4>
+                <img src="/static/index/images/common/footer_logo.png">
             </div>
             <!-- subscribe -->
             <div class="col-lg-10 subscribe-main footer-grid text-left" data-aos="fade-left">
@@ -502,7 +501,7 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['tel']); ?></h4>
+                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['mobile']); ?></h4>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->
