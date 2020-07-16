@@ -1,4 +1,4 @@
-<?php /*a:7:{s:68:"F:\gitProject\tofu_pudding\application\index\view\brand\culture.html";i:1592966713;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594800388;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:68:"F:\gitProject\tofu_pudding\application\index\view\brand\culture.html";i:1594874447;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -301,7 +301,7 @@
 				<p>秉承“工于至诚，共同进步”的价值观把“注重实干讲究效率”作为企业的行为准则，将“团结友爱、相互信任的”作为员工的行为准则朝着建设“更盈利更优良、更受尊重”的优异餐饮行业的愿景迈进</p>
 			</div>
 			<div class="col-lg-6 about-info text-left" data-aos="flip-left" >
-				<img src="/static/index/images/brand/c3.png" class="img-fluid" alt="" style="background-color: #2D2C32">
+				<img src="/static/index/images/brand/c3.jpg" class="img-fluid" alt="">
 			</div>
 		</div>
 	</div>
@@ -407,7 +407,7 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['tel']); ?></h4>
+                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['mobile']); ?></h4>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->

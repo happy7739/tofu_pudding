@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/static/index/images/brand/c3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/brand/culture.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/brand/culture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202007/16.log" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/log/202007/16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/8aedd4dbe12aea632c25789b46a2422d.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/8aedd4dbe12aea632c25789b46a2422d.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/static/index/images/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/static/index/images/brand" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gitProject\tofu_pudding\public\static\index\images\brand" />
       <recent name="F:\gitProject\tofu_pudding\public\static\index\images\common" />
       <recent name="F:\gitProject\tofu\public\static\index\images\common" />
     </key>
@@ -68,7 +73,7 @@
       <workItem from="1594784617480" duration="1787000" />
       <workItem from="1594793347237" duration="4437000" />
       <workItem from="1594800196791" duration="2844000" />
-      <workItem from="1594864907698" duration="626000" />
+      <workItem from="1594864907698" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>
