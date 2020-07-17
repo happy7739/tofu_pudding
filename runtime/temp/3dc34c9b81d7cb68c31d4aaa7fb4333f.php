@@ -1,4 +1,4 @@
-<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970422;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -36,14 +36,14 @@
         <div class="row">
             <div class="col-md-4 top-forms text-left mt-4"  data-aos="fade-up">
                 <span>Welcome Back!</span>
-                <span class="mx-lg-4 mx-md-2  mx-1">
-						<a href="#">
-							<i class="fas fa-lock"></i> Sign In</a>
-					</span>
+                <!--<span class="mx-lg-4 mx-md-2  mx-1">
+                    <a href="#">
+                        <i class="fas fa-lock"></i> Sign In</a>
+                </span>
                 <span>
-						<a href="#">
-							<i class="far fa-user"></i> Register</a>
-					</span>
+                    <a href="#">
+                        <i class="far fa-user"></i> Register</a>
+                </span>-->
             </div>
             <div class="col-md-4 logo text-center" data-aos="fade-up">
                 <a class="navbar-brand" href="index.html">

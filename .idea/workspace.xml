@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="" />
+    <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/index/view/public/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/header.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <workItem from="1594793347237" duration="4437000" />
       <workItem from="1594800196791" duration="2844000" />
       <workItem from="1594864907698" duration="6140000" />
-      <workItem from="1594946963584" duration="5235000" />
+      <workItem from="1594946963584" duration="5956000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>
