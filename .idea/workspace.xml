@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/static/index/images/profit/bgc01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/index/images/profit/bgp01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/index/images/profit/bgp02.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/index/view/profit/condition.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/profit/condition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/profit/equity.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/profit/equity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/index/view/profit/process.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/profit/process.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime/log/202007/16.log" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/log/202007/16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/41a9f8c3f34e354cf563df551fe1d4e3.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/41a9f8c3f34e354cf563df551fe1d4e3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runtime/temp/b5f4f64a9b3e3fad1a2db5e1f04bf102.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/b5f4f64a9b3e3fad1a2db5e1f04bf102.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runtime/temp/e9a97a1e5718bac84caa4977d0a58eb1.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/e9a97a1e5718bac84caa4977d0a58eb1.php" afterDir="false" />
     </list>
@@ -80,7 +78,7 @@
       <workItem from="1594793347237" duration="4437000" />
       <workItem from="1594800196791" duration="2844000" />
       <workItem from="1594864907698" duration="6140000" />
-      <workItem from="1594946963584" duration="869000" />
+      <workItem from="1594946963584" duration="3293000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>

@@ -1,4 +1,4 @@
-<?php /*a:6:{s:69:"F:\gitProject\tofu_pudding\application\index\view\profit\process.html";i:1594891500;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:69:"F:\gitProject\tofu_pudding\application\index\view\profit\process.html";i:1594950522;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -316,7 +316,7 @@
 					</div>
 				</div>
 				<div class="banner-btm-bottom">
-					<div class="banner-btm-inner a2" style="background-image: url(/static/index/images/profit/bgp01.png);">
+					<div class="banner-btm-inner a2" style="background-image: url(/static/index/images/profit/bgp01-2.png);">
 					</div>
 					<div class="banner-btm-inner a1 text-left">
 						<div class="blog_date">
@@ -357,7 +357,7 @@
 					</div>
 				</div>
 				<div class="banner-btm-bottom">
-					<div class="banner-btm-inner a5" style="background-image: url(/static/index/images/profit/bgp02.png);">
+					<div class="banner-btm-inner a5" style="background-image: url(/static/index/images/profit/bgp02-2.png);">
 					</div>
 					<div class="banner-btm-inner a4 text-left">
 						<div class="blog_date">

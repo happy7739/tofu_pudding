@@ -1,4 +1,4 @@
-<?php /*a:7:{s:71:"F:\gitProject\tofu_pudding\application\index\view\profit\condition.html";i:1594947831;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:71:"F:\gitProject\tofu_pudding\application\index\view\profit\condition.html";i:1594950323;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -283,7 +283,7 @@
 
 <style>
 	.container p{
-		font-size: 1.5em;
+		font-size: 1.1em;
 	}
 </style>
 <section class="banner-bottom">
@@ -302,7 +302,7 @@
 				<p>5.认同公司的经营理念和发展目标，愿与公司携手，共同开拓国内市场。</p>
 			</div>
 			<div class="col-lg-6 about-img" data-aos="flip-left" >
-				<img src="/static/index/images/profit/bgc01.jpg" class="img-fluid" alt="">
+				<img src="/static/index/images/profit/c02.jpg" class="img-fluid" alt="">
 			</div>
 		</div>
 	</div>

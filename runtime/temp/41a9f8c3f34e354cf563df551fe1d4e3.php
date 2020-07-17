@@ -1,4 +1,4 @@
-<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\profit\equity.html";i:1594891146;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\profit\equity.html";i:1594950522;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -380,7 +380,7 @@
 							自力逗花厂全套技术工艺、设备器具使用等培训权，接受培训人员须通过考核后方能毕业上岗，确保合作店独立运营。
 						</p>
 					</div>
-					<div class="banner-btm-inner a2" style="background-image: url(/static/index/images/profit/bge01.png);">
+					<div class="banner-btm-inner a2" style="background-image: url(/static/index/images/profit/bge01-2.png);">
 					</div>
 				</div>
 			</div>
@@ -394,7 +394,7 @@
 							总部的经营技术资产，如：营销理念、广告策划、广告投放、员工培训、人力资源、品牌管理、财务管理、物流管理、风险预警等经营技术资产。
 						</p>
 					</div>
-					<div class="banner-btm-inner a5" style="background-image: url(/static/index/images/profit/bge02.png);">
+					<div class="banner-btm-inner a5" style="background-image: url(/static/index/images/profit/bge02-2.png);">
 					</div>
 				</div>
 			</div>
