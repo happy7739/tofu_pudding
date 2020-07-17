@@ -1,4 +1,4 @@
-<?php /*a:7:{s:71:"F:\gitProject\tofu_pudding\application\index\view\profit\condition.html";i:1592967235;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:71:"F:\gitProject\tofu_pudding\application\index\view\profit\condition.html";i:1594947831;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -281,7 +281,11 @@
     <li class="breadcrumb-item active"><?php echo htmlentities($title); ?></li>
 </ol>
 
-
+<style>
+	.container p{
+		font-size: 1.5em;
+	}
+</style>
 <section class="banner-bottom">
 	<div class="container">
 		<h3 class="tittle">
@@ -290,7 +294,7 @@
     </span>
 </h3>
 		<div class="row inner-sec">
-			<div class="col-lg-6 about-info text-left" data-aos="flip-right" style="background-image: url('/static/index/images/profit/bg4.png')">
+			<div class="col-lg-6 about-info text-left" data-aos="flip-right">
 				<p>1.有独立承担民事责任能力的自然人或独立承担民事责任的企业法人。</p>
 				<p>2.有相应的投资能力和风险意识。</p>
 				<p>3.有一定的启动资金、市场经验、具备较强的经营意识,共同发展的信心。</p>
@@ -298,7 +302,7 @@
 				<p>5.认同公司的经营理念和发展目标，愿与公司携手，共同开拓国内市场。</p>
 			</div>
 			<div class="col-lg-6 about-img" data-aos="flip-left" >
-				<img src="/static/index/images/profit/bg4.png" class="img-fluid" alt="">
+				<img src="/static/index/images/profit/bgc01.jpg" class="img-fluid" alt="">
 			</div>
 		</div>
 	</div>
