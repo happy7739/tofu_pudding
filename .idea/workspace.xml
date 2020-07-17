@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1594793347237" duration="4437000" />
       <workItem from="1594800196791" duration="2844000" />
       <workItem from="1594864907698" duration="6140000" />
-      <workItem from="1594946963584" duration="4481000" />
+      <workItem from="1594946963584" duration="5235000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594785418813</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="图片样式浏览器兼容问题">
+      <created>1594954998905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594954998905</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,21 +142,22 @@
     <MESSAGE value="成功案例-》实体店" />
     <MESSAGE value="添加view" />
     <MESSAGE value="banner修改样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="banner修改样式" />
+    <MESSAGE value="图片样式浏览器兼容问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="图片样式浏览器兼容问题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594785417094">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594954996627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594785417094" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594954996627" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594281130645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594281130645" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594785422593">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594955003379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594785422593" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594955003379" />
     <state x="468" y="146" width="600" height="532" key="find.popup" timestamp="1594889846498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
