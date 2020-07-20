@@ -1,4 +1,4 @@
-<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209558;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209855;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -408,7 +408,7 @@
             </div>
             <!-- subscribe -->
             <div class="col-lg-7 subscribe-main text-right" data-aos="fade-left">
-                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 100px;">
+                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 85px;">
                 <p>
                     成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/">蜀ICP备12020698号-9</a>
                 </p>

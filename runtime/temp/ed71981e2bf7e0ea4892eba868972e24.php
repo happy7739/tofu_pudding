@@ -1,4 +1,4 @@
-<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\product\index.html";i:1594797412;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\product\index.html";i:1595214677;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209855;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -77,14 +77,14 @@
         <div class="row">
             <div class="col-md-4 top-forms text-left mt-4"  data-aos="fade-up">
                 <span>Welcome Back!</span>
-                <span class="mx-lg-4 mx-md-2  mx-1">
-						<a href="#">
-							<i class="fas fa-lock"></i> Sign In</a>
-					</span>
+                <!--<span class="mx-lg-4 mx-md-2  mx-1">
+                    <a href="#">
+                        <i class="fas fa-lock"></i> Sign In</a>
+                </span>
                 <span>
-						<a href="#">
-							<i class="far fa-user"></i> Register</a>
-					</span>
+                    <a href="#">
+                        <i class="far fa-user"></i> Register</a>
+                </span>-->
             </div>
             <div class="col-md-4 logo text-center" data-aos="fade-up">
                 <a class="navbar-brand" href="index.html">
@@ -109,8 +109,8 @@
                             <img src="/static/index/images/common/tel.png" title="400-8068-918">
                         </a>
                     </li>
-                    <li>
-                        <a href="javascript:layer_load()" class="mx-2">
+                    <li><!--javascript:layer_load()-->
+                        <a href="#" class="mx-2">
                             <img src="/static/index/images/common/load.png" title="可行性报告">
                         </a>
                     </li>
@@ -354,7 +354,7 @@
 						<?php if(!(empty($data) || (($data instanceof \think\Collection || $data instanceof \think\Paginator ) && $data->isEmpty()))): if(!(empty($data[0]) || (($data[0] instanceof \think\Collection || $data[0] instanceof \think\Paginator ) && $data[0]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[0]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -366,7 +366,7 @@
 								</div>
 								<?php if(!(empty($data[3]) || (($data[3] instanceof \think\Collection || $data[3] instanceof \think\Paginator ) && $data[3]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[3]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -381,7 +381,7 @@
 							<?php endif; if(!(empty($data[1]) || (($data[1] instanceof \think\Collection || $data[1] instanceof \think\Paginator ) && $data[1]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[1]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -393,7 +393,7 @@
 								</div>
 								<?php if(!(empty($data[4]) || (($data[4] instanceof \think\Collection || $data[4] instanceof \think\Paginator ) && $data[4]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[4]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -408,7 +408,7 @@
 							<?php endif; if(!(empty($data[2]) || (($data[2] instanceof \think\Collection || $data[2] instanceof \think\Paginator ) && $data[2]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[2]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -420,7 +420,7 @@
 								</div>
 								<?php if(!(empty($data[5]) || (($data[5] instanceof \think\Collection || $data[5] instanceof \think\Paginator ) && $data[5]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>">
+									<a title="<?php echo htmlentities($data[5]['desc']); ?>" href="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -545,12 +545,13 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <h4 style="padding-bottom: 10px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <b>投资有风险&nbsp;选择需谨慎</b><br/>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->
             <div class="col-lg-7 subscribe-main text-right" data-aos="fade-left">
-                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 70px;">
+                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 85px;">
                 <p>
                     成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/">蜀ICP备12020698号-9</a>
                 </p>
