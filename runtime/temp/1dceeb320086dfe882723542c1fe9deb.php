@@ -1,4 +1,4 @@
-<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\stories\index.html";i:1594714148;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594280765;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\stories\index.html";i:1594714148;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209855;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -73,14 +73,14 @@
         <div class="row">
             <div class="col-md-4 top-forms text-left mt-4"  data-aos="fade-up">
                 <span>Welcome Back!</span>
-                <span class="mx-lg-4 mx-md-2  mx-1">
-						<a href="#">
-							<i class="fas fa-lock"></i> Sign In</a>
-					</span>
+                <!--<span class="mx-lg-4 mx-md-2  mx-1">
+                    <a href="#">
+                        <i class="fas fa-lock"></i> Sign In</a>
+                </span>
                 <span>
-						<a href="#">
-							<i class="far fa-user"></i> Register</a>
-					</span>
+                    <a href="#">
+                        <i class="far fa-user"></i> Register</a>
+                </span>-->
             </div>
             <div class="col-md-4 logo text-center" data-aos="fade-up">
                 <a class="navbar-brand" href="index.html">
@@ -105,8 +105,8 @@
                             <img src="/static/index/images/common/tel.png" title="400-8068-918">
                         </a>
                     </li>
-                    <li>
-                        <a href="javascript:layer_load()" class="mx-2">
+                    <li><!--javascript:layer_load()-->
+                        <a href="#" class="mx-2">
                             <img src="/static/index/images/common/load.png" title="可行性报告">
                         </a>
                     </li>
@@ -511,8 +511,7 @@
     <div class="container">
         <div class="row" style="margin-bottom: 1em;">
             <div class="col-lg-2 footer-grid text-center" data-aos="fade-right" >
-                <img src="<?php echo htmlentities(get_file_path($config['wx_img'])); ?>" width="80%">
-                <h4><b>扫一扫<br/>立即关注<br/>官方微信</b></h4>
+                <img src="/static/index/images/common/footer_logo.png">
             </div>
             <!-- subscribe -->
             <div class="col-lg-10 subscribe-main footer-grid text-left" data-aos="fade-left">
@@ -542,12 +541,13 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['tel']); ?></h4>
+                <h4 style="padding-bottom: 10px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <b>投资有风险&nbsp;选择需谨慎</b><br/>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->
             <div class="col-lg-7 subscribe-main text-right" data-aos="fade-left">
-                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 70px;">
+                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 85px;">
                 <p>
                     成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/">蜀ICP备12020698号-9</a>
                 </p>
