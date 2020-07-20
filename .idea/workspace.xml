@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/application/index/view/public/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/public/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/3dc34c9b81d7cb68c31d4aaa7fb4333f.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/3dc34c9b81d7cb68c31d4aaa7fb4333f.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,7 @@
       <workItem from="1594800196791" duration="2844000" />
       <workItem from="1594864907698" duration="6140000" />
       <workItem from="1594946963584" duration="5956000" />
+      <workItem from="1595206128328" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>

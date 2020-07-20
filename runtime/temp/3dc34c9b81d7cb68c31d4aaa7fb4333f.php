@@ -1,4 +1,4 @@
-<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970422;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:67:"F:\gitProject\tofu_pudding\application\index\view\project\good.html";i:1594969843;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\title.html";i:1592963669;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209558;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -68,8 +68,8 @@
                             <img src="/static/index/images/common/tel.png" title="400-8068-918">
                         </a>
                     </li>
-                    <li>
-                        <a href="javascript:layer_load()" class="mx-2">
+                    <li><!--javascript:layer_load()-->
+                        <a href="#" class="mx-2">
                             <img src="/static/index/images/common/load.png" title="可行性报告">
                         </a>
                     </li>
@@ -402,12 +402,13 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <h4 style="padding-bottom: 10px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <b>投资有风险&nbsp;选择需谨慎</b><br/>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->
             <div class="col-lg-7 subscribe-main text-right" data-aos="fade-left">
-                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 70px;">
+                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 100px;">
                 <p>
                     成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/">蜀ICP备12020698号-9</a>
                 </p>
