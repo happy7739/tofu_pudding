@@ -1,4 +1,4 @@
-<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\stories\index.html";i:1594714148;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209855;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:6:{s:68:"F:\gitProject\tofu_pudding\application\index\view\stories\index.html";i:1595228231;s:66:"F:\gitProject\tofu_pudding\application\index\view\public\base.html";i:1594787886;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1594970504;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595209855;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -350,7 +350,7 @@
 						<?php if(!(empty($data) || (($data instanceof \think\Collection || $data instanceof \think\Paginator ) && $data->isEmpty()))): if(!(empty($data[0]) || (($data[0] instanceof \think\Collection || $data[0] instanceof \think\Paginator ) && $data[0]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[0]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -362,7 +362,7 @@
 								</div>
 								<?php if(!(empty($data[3]) || (($data[3] instanceof \think\Collection || $data[3] instanceof \think\Paginator ) && $data[3]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[3]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -377,7 +377,7 @@
 							<?php endif; if(!(empty($data[1]) || (($data[1] instanceof \think\Collection || $data[1] instanceof \think\Paginator ) && $data[1]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[1]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -389,7 +389,7 @@
 								</div>
 								<?php if(!(empty($data[4]) || (($data[4] instanceof \think\Collection || $data[4] instanceof \think\Paginator ) && $data[4]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[4]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -404,7 +404,7 @@
 							<?php endif; if(!(empty($data[2]) || (($data[2] instanceof \think\Collection || $data[2] instanceof \think\Paginator ) && $data[2]->isEmpty()))): ?>
 							<div class="col-md-4 proj_gallery_grid" data-aos="zoom-in">
 								<div class="section_1_gallery_grid">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[2]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">
@@ -416,7 +416,7 @@
 								</div>
 								<?php if(!(empty($data[5]) || (($data[5] instanceof \think\Collection || $data[5] instanceof \think\Paginator ) && $data[5]->isEmpty()))): ?>
 								<div class="section_1_gallery_grid" data-aos="zoom-in">
-									<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>">
+									<a title=" " href="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>">
 										<div class="section_1_gallery_grid1">
 											<img src="<?php echo htmlentities(get_file_path($data[5]['img'])); ?>" alt=" " class="img-fluid" />
 											<div class="proj_gallery_grid1_pos">

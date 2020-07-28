@@ -1,4 +1,4 @@
-<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1594800983;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1593326855;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1592982431;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1594801923;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1594800983;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1593326855;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1595902622;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1595902501;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -41,17 +41,17 @@
         <div class="row">
             <div class="col-md-4 top-forms text-left mt-4"  data-aos="fade-up">
                 <span>Welcome Back!</span>
-                <span class="mx-lg-4 mx-md-2  mx-1">
-						<a href="#">
-							<i class="fas fa-lock"></i> Sign In</a>
-					</span>
+                <!--<span class="mx-lg-4 mx-md-2  mx-1">
+                    <a href="#">
+                        <i class="fas fa-lock"></i> Sign In</a>
+                </span>
                 <span>
-						<a href="#">
-							<i class="far fa-user"></i> Register</a>
-					</span>
+                    <a href="#">
+                        <i class="far fa-user"></i> Register</a>
+                </span>-->
             </div>
             <div class="col-md-4 logo text-center" data-aos="fade-up">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1" target="_blank">
                     <!--<i class="fab fa-gitkraken"></i> Baked-->
                     <img src="<?php echo htmlentities(get_file_path($config['logo'])); ?>" height="70px">
                 </a>
@@ -59,10 +59,11 @@
             <div class="col-md-4 log-icons text-right"  data-aos="fade-up">
                 <ul class="social_list1 mt-4">
                     <li>
-                        <a href="#" class="mx-2">
+                        <a href="https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1" target="_blank" class="mx-2">
                             <img src="/static/index/images/common/message.png" title="在线申请">
                         </a>
                     </li>
+                    <!--https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1-->
                     <li>
                         <a class="mx-2" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2854196306&site=qq&menu=yes">
                             <img src="/static/index/images/common/QQ.png" title="QQ">
@@ -73,8 +74,8 @@
                             <img src="/static/index/images/common/tel.png" title="400-8068-918">
                         </a>
                     </li>
-                    <li>
-                        <a href="javascript:layer_load()" class="mx-2">
+                    <li><!--javascript:layer_load()-->
+                        <a href="javascript:void(0);" class="mx-2">
                             <img src="/static/index/images/common/load.png" title="可行性报告">
                         </a>
                     </li>
@@ -109,7 +110,10 @@
             content: '<a href="https://rrx.cn/view-y4p1a5" target="_blank"><img src="/static/index/images/common/code.png" width="200px"></a>'
         });
     }
+
+
 </script>
+
 <!--/banner-->
 <style>
     .swiper-container0 {
@@ -658,13 +662,34 @@
     footer .subscribe-main{
         padding-bottom: 0px;
     }
+
+    .kf{
+        position: fixed;
+        left: 0px;
+        bottom: 100px;
+        z-index:10;
+    }
+    .kf img {
+        width: 100px;
+        height: 130px;
+        background-color: #FFF;
+    }
 </style>
 
 <footer>
+
+    <div class="kf">
+        <a href="https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1" target="_blank">
+            <img src="/static/index/images/common/53.png">
+        </a>
+    </div>
+
     <div class="container">
         <div class="row" style="margin-bottom: 1em;">
             <div class="col-lg-2 footer-grid text-center" data-aos="fade-right" >
-                <img src="/static/index/images/common/footer_logo.png">
+                <a href="https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1" target="_blank">
+                    <img src="/static/index/images/common/footer_logo.png">
+                </a>
             </div>
             <!-- subscribe -->
             <div class="col-lg-10 subscribe-main footer-grid text-left" data-aos="fade-left">
@@ -694,12 +719,15 @@
         <div class="row">
             <div class="col-lg-5 footer-grid text-left" data-aos="fade-right" style="padding: 0 0 0 15px;">
                 <h5>免费财富热线</h5>
-                <h4 style="padding-bottom: 15px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <h4 style="padding-bottom: 10px;"><?php echo htmlentities($config['mobile']); ?></h4>
+                <b>投资有风险&nbsp;选择需谨慎</b><br/>
                 <b>总部地址：<?php echo htmlentities($config['address']); ?></b>
             </div>
             <!-- subscribe -->
             <div class="col-lg-7 subscribe-main text-right" data-aos="fade-left">
-                <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 70px;">
+                <a href="https://tb.53kf.com/code/client/0b4c056a1d9ad82875ab9c1fcb7559bf6/1" target="_blank">
+                    <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 85px;">
+                </a>
                 <p>
                     成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/">蜀ICP备12020698号-9</a>
                 </p>
