@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/controller/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Configuration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/index/view/public/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/public/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime/temp/1dceeb320086dfe882723542c1fe9deb.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/1dceeb320086dfe882723542c1fe9deb.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime/temp/4b9e04e3f818cbdf858eb3529a58f2b0.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/4b9e04e3f818cbdf858eb3529a58f2b0.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,7 @@
       <workItem from="1595551146767" duration="597000" />
       <workItem from="1595638653703" duration="603000" />
       <workItem from="1595900199386" duration="1530000" />
+      <workItem from="1596071647472" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>
