@@ -1,4 +1,4 @@
-<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1594800983;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1596072161;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1595902622;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1596071798;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1596419489;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1596072161;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1595902622;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1596418142;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -420,9 +420,9 @@
         -webkit-transform: translateX(100%);
         -ms-transform: translateX(100%);
         transform: translateX(100%);
-        padding-top: 88px;
+        padding-top: 20px;
         color: #fff;
-        padding-right: 152px;
+        padding-right: 130px;
         padding-left: 180px;
         position: absolute;
         right: 0;
@@ -465,8 +465,8 @@
                 <div class="introut">
                     <img alt="" src="/static/index/images/index/team.jpg" />
                     <div class="cover trans">
-                        <h3>成都餐协餐饮管理有限公司</h3>
-                        <p>成都餐协餐饮管理有限公司，于二零一二年在享有“美食之都”之称的成都成立。成都餐协坚持以餐饮管理服务为本，坚持多元化发展方向、以市场经营为导向，在稳步发展中不断创新，形成了集运营管理、技术培训以及服务支持为一体的完整运营体系。集团自成立以来始终为成为中国更绿色更健康的餐饮运营服务商而努力，坚持“为顾客创造价值，与顾客共同成长”的宗旨。</p>
+                        <h3>成都佰家鼎餐饮管理有限公司</h3>
+                        <p>鼎是古时调和各种味料的珍贵器物，鼎有三足，蕴含道家一生二，二生三，三生万物的自然规律；成都佰家鼎餐饮管理有限公司集百家之所长，研食材之本味，创地道之美食为主旨，多年致力于原创品牌的研发与品推，公司成立至今已形成餐饮管理，产品研发，中央工厂生产，物流配送等完善的配套服务，以“美食，众智，品创”为企业发展的理念，帮助数以万计的创业者成功致富。千百年来，鼎做为中华民族的传承重器受世代尊崇，今天成都佰家鼎餐饮人愿以鼎为使，做美食传承人，为华夏人的健康，饮食做出自己的一份力。</p>
                     </div>
                 </div>
             </div>
@@ -730,7 +730,7 @@
                     <img src="<?php echo htmlentities(get_file_path($config['logo_f'])); ?>" style="height: 85px;">
                 </a>
                 <p>
-                    成都餐协餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/"><?php echo htmlentities($config['record']); ?></a>
+                    四川佰家鼎餐饮管理有限公司@版权所有信息备案号：<a href="http://www.beian.miit.gov.cn/"><?php echo htmlentities($config['record']); ?></a>
                 </p>
             </div>
         </div>

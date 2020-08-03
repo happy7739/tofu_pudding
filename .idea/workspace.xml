@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03051312-f0f8-44ee-b134-0ac0f6646abf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Configuration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/public/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/public/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/4b9e04e3f818cbdf858eb3529a58f2b0.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/4b9e04e3f818cbdf858eb3529a58f2b0.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,7 @@
       <workItem from="1595638653703" duration="603000" />
       <workItem from="1595900199386" duration="1530000" />
       <workItem from="1596071647472" duration="288000" />
+      <workItem from="1596417524606" duration="1719000" />
     </task>
     <task id="LOCAL-00001" summary="隐藏品牌故事">
       <created>1594261361438</created>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595228269427</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="公司修改">
+      <created>1596418189602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596418189602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,21 +186,22 @@
     <MESSAGE value="底部修改" />
     <MESSAGE value="产品展示修改" />
     <MESSAGE value="详情title修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="详情title修改" />
+    <MESSAGE value="公司修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="公司修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1595228267057">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1596418182930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595228267057" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596418182930" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595900628448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595900628448" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595228272284">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596418195143">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595228272284" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596418195143" />
     <state x="468" y="146" width="600" height="532" key="find.popup" timestamp="1595901673208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
