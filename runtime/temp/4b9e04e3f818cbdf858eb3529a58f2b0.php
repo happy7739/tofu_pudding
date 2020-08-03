@@ -1,4 +1,4 @@
-<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1594800983;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1593326855;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1595902622;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1596071798;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
+<?php /*a:7:{s:66:"F:\gitProject\tofu_pudding\application\index\view\index\index.html";i:1594800983;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\index.html";i:1596072161;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\header.html";i:1595902622;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\banner.html";i:1592962010;s:65:"F:\gitProject\tofu_pudding\application\index\view\public\nav.html";i:1592548201;s:68:"F:\gitProject\tofu_pudding\application\index\view\public\footer.html";i:1596071798;s:67:"F:\gitProject\tofu_pudding\application\index\view\public\model.html";i:1593326855;}*/ ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -6,7 +6,8 @@
     <title><?php echo htmlentities($title); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta name="keywords" content="" />
+    <meta name="keywords" content="<?php echo htmlentities($config['keywords']); ?>" />
+    <meta name="description" content="<?php echo htmlentities($config['description']); ?>" />
     <script>
         addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
